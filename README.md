@@ -1,5 +1,6 @@
 # itc134-sp20-bio
-In my family I am one of eight kids. Originally from Sacramento, California but moved to Washington for about 17 years now. I still go back and visit almost every summer or whenever I can. I’m the sixth to oldest and I’m also the second to further my education. 
-
-I like learning. Things are changing all the time and with technology coming up in the business world I’ve taken an interest in software development. I’m not a tech genius but I do have experience. For a year I attended Eastern Washington University for computer tech engineering and now I'm in the Year Up program. 
-
+Born in Sacramento, California and visit almost every summer or whenever I can.
+I am one of eight kids.
+I am the 6th oldest so I'm the one of the youngest.
+I am the second to further my education beyond highschool.
+Attended Eastern Washington University for computer tech engineering. 
